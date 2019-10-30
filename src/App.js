@@ -1,6 +1,6 @@
 import React from 'react';
-import CardGroup from "./CardGroup.jsx";
-import Card from "./Card.jsx"
+import CardGroup from "./CardGroup.js";
+import Card from "./Card.js"
 
 
 const App = () => (
